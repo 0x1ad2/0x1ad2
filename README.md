@@ -6,83 +6,17 @@
   I'm Dennis, 27 years old and living in the
   <img src="https://image.flaticon.com/icons/svg/197/197441.svg" width="13" />
   <b>Zwolle, The Netherlands</b><br /><br />
-  I'm full-stack software consultant from with a broad interest in
-  micro-architecture (read; sites, services, containerized platforms), mobile
-  apps, cloud (AWS / Azure), design (UI / UX), new-age storytelling (XR) and
-  data.
+Ever since I was a little kid software development has been my passion, at first I wasn’t sure what exactly I wanted to do in the field but when I wrote my first lines of code and executed them something “clicked”.
+
+From there on I pursued my career in software development with a focus on web. Now, eight years later I’m a T-shaped programmer with a broad interest in micro and cloud-architecture, mobile apps, and UI/UX design.
+
+Over the years I’ve worked with a handful of companies in various roles from back-end developer to platform architect and everything in between.
+
+I have an eye for detail; I’m inquisitive, a team player, and always striving to reach my goals. I love to coach others, see them grow, and try to reach their full potential. -- A self-labeled geek that liked to go to conferences, organize meetups, always ready for the next technical challenge!
+
+I’m an expert in JavaScript (TypeScript, React, Gatsby, Next and NodeJS) I can work with React Native, Angular, Ionic and Electron, I love to host my projects on AWS, view designs in Figma and improve my applications based on data from e.g, Google Analytics. 
 </p>
 
-<h3>🛠 Frequently used technologies</h3>
-<p>
-  <img
-    alt="React"
-    src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
-  />
-  <img
-    alt="Webpack"
-    src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"
-  />
-  <img
-    alt="Docker"
-    src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"
-  />
-  <img
-    alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"
-  />
-  <img
-    alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
-  />
-  <img
-    alt="Apollo"
-    src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white"
-  />
-  <img
-    alt="Heroku"
-    src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"
-  />
-  <img
-    alt="redux"
-    src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
-  />
-  <img
-    alt="GraphQL"
-    src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
-  />
-  <img
-    alt="Sass"
-    src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
-  />
-  <img
-    alt="git"
-    src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
-  />
-  <img
-    alt="angular"
-    src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"
-  />
-  <img
-    alt="npm"
-    src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white"
-  />
-  <img
-    alt="html5"
-    src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
-  />
-  <img
-    alt="Prettier"
-    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
-  />
-  <img
-    alt="MongoDB"
-    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"
-  />
-  <img
-    alt="Nodejs"
-    src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"
-  />
-</p>
 <h3>🔌 Let's connect</h3>
 <p>
   <a href="https://github.com/0x1ad2" target="_blank"
