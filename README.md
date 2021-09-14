@@ -6,25 +6,25 @@
   I'm Dennis, 28 years old and living in the
   <img src="https://image.flaticon.com/icons/svg/197/197441.svg" width="13" />
   <b>Zwolle, The Netherlands</b><br /><br />
-    Ever since I was a little kid, software development has been my passion, at first I wasn’t
-    sure what exactly I wanted to do in the field (IT) but when I wrote my first lines of code
-    and executed them something “clicked”.
+  Ever since I was a little kid, software development has been my passion, at first I wasn’t
+  sure what exactly I wanted to do in the field (IT) but when I wrote my first lines of code
+  and executed them something “clicked”.
 
-    From there on I pursued my career in software development with a focus on web. Now,
-    eight years later I’m a T-shaped programmer with a broad interest in micro and
-    cloud-architecture, mobile apps, and UI/UX design.
+  From there on I pursued my career in software development with a focus on web. Now,
+  eight years later I’m a T-shaped programmer with a broad interest in micro and
+  cloud-architecture, mobile apps, and UI/UX design.
 
-    Over the years I’ve worked with a handful of companies in various roles from back-end
-    developer to platform architect and everything in between.
+  Over the years I’ve worked with a handful of companies in various roles from back-end
+  developer to platform architect and everything in between.
 
-    I have an eye for detail; I’m inquisitive, a team player, and always striving to reach my
-    goals. I love to coach others, see them grow, and try to reach their full potential. -- A
-    self-labeled geek that liked to go to conferences, organise meetups, always ready for
-    the next technical challenge!
+  I have an eye for detail; I’m inquisitive, a team player, and always striving to reach my
+  goals. I love to coach others, see them grow, and try to reach their full potential. -- A
+  self-labeled geek that liked to go to conferences, organise meetups, always ready for
+  the next technical challenge!
 
-    I’m an expert in JavaScript (e.g, TypeScript, React, Gatsby, Next and NodeJS) I can work
-    with React Native, Angular, Ionic and Electron, I love to host my projects on AWS, view
-    designs in Figma and improve my applications based on data driven insights.
+  I’m an expert in JavaScript (e.g, TypeScript, React, Gatsby, Next and NodeJS) I can work
+  with React Native, Angular, Ionic and Electron, I love to host my projects on AWS, view
+  designs in Figma and improve my applications based on data driven insights.
 </p>
 
 <h3>🔌 Let's connect</h3>
