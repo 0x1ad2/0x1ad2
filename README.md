@@ -1,5 +1,5 @@
 <h1>
-  👋🏻 Welcome to my profile
+  “The most damaging phrase in the language is.. it's always been done this way” - Grace Hopper
 </h1>
 
 <p>
