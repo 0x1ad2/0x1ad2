@@ -1,28 +1,3 @@
-<h1>
-  “The most damaging phrase in the language is.. it's always been done this way” - Grace Hopper
-</h1>
-
-<p>
-Ever since I was a little kid, software development has been my passion, at first I wasn’t
-sure what exactly I wanted to do in the field (IT) but when I wrote my first lines of code
-and executed them something “clicked”.
-  
-From there on I pursued my career in software development with a focus on web. Now,
-eight years later I’m a T-shaped programmer with a broad interest in micro and
-cloud-architecture, mobile apps, and UI/UX design.
-  
-Over the years I’ve worked with a handful of companies in various roles from back-end
-developer to platform architect and everything in between.
-  
-I have an eye for detail; I’m inquisitive, a team player, and always striving to reach my
-goals. I love to coach others, see them grow, and try to reach their full potential. -- A
-self-labeled geek that liked to go to conferences, organize meetups, always ready for
-the next technical challenge!
-  
-I’m an expert in JavaScript (e.g, TypeScript, React, Gatsby, Next and NodeJS) I can work
-with React Native, Angular, Ionic and Electron, I love to host my projects on AWS, view
-designs in Figma and improve my applications based on data driven insights.
-</p>
 
 <h3>🔌 Let's connect</h3>
 <p>
@@ -47,6 +22,7 @@ designs in Figma and improve my applications based on data driven insights.
       src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"
   /></a>
 </p>
+
 <h3>📊 My stats</h3>
 
 ![My Github
