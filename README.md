@@ -34,6 +34,4 @@ I design and build **scalable, high-performance applications** across the full s
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x1ad2&theme=github_dark" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x1ad2&theme=github_dark" />
 </p>
