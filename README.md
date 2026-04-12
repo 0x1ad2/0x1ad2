@@ -30,17 +30,10 @@ I design and build **scalable, high-performance applications** across the full s
 - 📦 Monorepo tooling & automation
 
 
-## 📈 GitHub Stats
+## 📈 Stats
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x1ad2&theme=github_dark" />
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x1ad2&theme=github_dark" />
 </p>
-
-
-## 🔗 Let’s Connect
-
-- [📬](mailto:dbbruijn@gmail.com)
-- [💼](https://www.linkedin.com/in/0x1ad2/)
-- [𝕏](https://x.com/0x1ad2)
